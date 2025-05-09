@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "59b7c9efc2dbab60",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e3287d087d4d8e",
+        "type": "tabs",
+        "dimension": 99.99999999999999,
+        "children": [
+          {
+            "id": "ddfde5757e449c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainDocs/Vampire Tag GDD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vampire Tag GDD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ea96be530664dd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1a50d50be071e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1969e41d552f232a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e8e904f8def91053",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d70e4a17ab68034a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f74445b6ed2d680",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc40ca64f425935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0b4f90ae54eb4f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MainDocs/Meeple RTS GDD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Meeple RTS GDD"
+            }
+          },
+          {
+            "id": "fca4581514543f85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MainDocs/Meeple RTS GDD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Meeple RTS GDD"
+            }
+          },
+          {
+            "id": "cf01dd3751e9c9b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1b38af0dc6b6f771",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MainDocs/Meeple RTS GDD.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Meeple RTS GDD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ddfde5757e449c2a",
+  "lastOpenFiles": [
+    "MainDocs/HUB.md",
+    "TODO/To Do List Template.md",
+    "MainDocs/Vampire Tag GDD.md",
+    "TODO/Issues List.md",
+    "TODO/Overall Schedule.md",
+    "z Images & Videos/VampireTag_GameOverview.png",
+    "Learning Resources/What's learnt from the project.md",
+    "z Images & Videos",
+    "Learning Resources/Learning Programming/Learning Multiplayer Systems.md",
+    "Learning Resources/Learning Art/Learning Template.md",
+    "Learning Resources/Learning Art",
+    "Learning Resources/Learning Programming/Learning Programming.md",
+    "MainDocs/Gameplay & Systems/Map.md",
+    "MainDocs/Gameplay & Systems/Events.md",
+    "MainDocs/Gameplay & Systems/UI & UX.md",
+    "MainDocs/Questions about the game.md",
+    "MainDocs/Gameplay & Systems/Player.md",
+    "MainDocs/Gameplay & Systems/Player Items.md",
+    "MainDocs/Credits.md",
+    "MainDocs/Programming Overview.md",
+    "MainDocs/Gameplay & Systems/Multiplayer.md",
+    "MainDocs/Gameplay & Systems/Template.md",
+    "MainDocs/Gameplay/Untitled.md",
+    "Learning Resources/Learning Programming",
+    "Issue Fixes/Controller Fixes.md",
+    "Issue Fixes",
+    "MainDocs/Marketing/Marketing Strategy.md",
+    "MainDocs/Art/Art Style.md",
+    "MainDocs/Audio/Music and SFX.md",
+    "Learning Resources/Looked at RTXDI.md",
+    "MainDocs/Audio",
+    "MainDocs/Marketing",
+    "Learning Resources",
+    "MainDocs/Art",
+    "MainDocs/Gameplay & Systems",
+    "TODO",
+    "Dice Events.md"
+  ]
+}
