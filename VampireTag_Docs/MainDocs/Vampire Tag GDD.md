@@ -9,6 +9,7 @@
 | Point of View | Isometric top down |
 | Theme / Mood  | Cartoony           |
 
+
 ## Overall Gameplay
 
 Play as a vampire in a third person top down game (isometric camera)
@@ -29,6 +30,7 @@ Last player wins
 ## [[Map]]
 
 ## [[Multiplayer]]
+## [[UI & UX]]
 
 ## [[Template]]
 
